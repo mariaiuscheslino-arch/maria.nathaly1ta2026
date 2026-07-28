@@ -1,0 +1,18 @@
+:root {
+  --bg-color: #121214;
+  --card-bg: #1E1E24;
+  --text-color: #E1E1E6;
+  --primary-accent: #E52E2E;
+  --secondary-accent: #996DFF;
+  --neon-accent: #FFCD1E;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: sans-serif;
+}
+
+a {
+  color: var(--primary-accent);
+}
